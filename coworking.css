@@ -1,6 +1,6 @@
 body {
 	font-family: Helvetica, sans-serif;
-	background: url('/images/background.png') no-repeat fixed 100% 0%;
+	background: url('http://cowoco.heroku.com/images/background.png') no-repeat fixed 100% 0%;
 	color: #555;
 }
 #contents {
@@ -30,22 +30,22 @@ h1, h2, h3, #menu {
 }
 
 div.outermenu.left {
-	margin-top: 65px;
-	background: url('/images/menu_bg_left.png') no-repeat left;
+	margin-top: 20px;
+	background: url('http://cowoco.heroku.com/images/menu_bg_left.png') no-repeat left;
 	width: 925px;
 	padding: 0 5px 0 0;
 	margin-left: -2px;
 }
 
 div.outermenu.right {
-	margin-top: 65px;
-	background: url('/images/menu_bg_right.png') no-repeat right;
+	margin-top: 20px;
+	background: url('http://cowoco.heroku.com/images/menu_bg_right.png') no-repeat right;
 	width: 925px;
 	padding: 0 0 0 5px;
 }
 
 ul#menu {
-	background: url('/images/menu_bg_repeat.png') repeat-x;
+	background: url('http://cowoco.heroku.com/images/menu_bg_repeat.png') repeat-x;
 	height: 41px;
 	padding: 0 5px;
 	width: 910px;
@@ -139,20 +139,20 @@ ul li.active a {
 }
 
 .bckgrnd.outer.top {
-	background: url('/images/contents_bg_top.png') no-repeat top left;
+	background: url('http://cowoco.heroku.com/images/contents_bg_top.png') no-repeat top left;
 	padding-top: 4px;
 	width: 931px;
 	margin-left: -3px;
 }
 
 .bckgrnd.outer.bottom {
-	background: url('/images/contents_bg_bottom.png') no-repeat bottom left;
+	background: url('http://cowoco.heroku.com/images/contents_bg_bottom.png') no-repeat bottom left;
 	padding-bottom: 7px;
 	width: 931px;
 }
 
 #contents.bckgrnd {
-	background: url('/images/contents_bg_repeat.png') repeat-y;
+	background: url('http://cowoco.heroku.com/images/contents_bg_repeat.png') repeat-y;
 	padding-bottom: 10px;
 	width: 931px;
 	padding-left: 3px;
@@ -161,19 +161,19 @@ ul li.active a {
 #contents div.teaserbox.big {
 	width: 445px;
 	height: 260px;
-	background: url('/images/teaserbox_bg_repeat.png') repeat-x;
+	background: url('http://cowoco.heroku.com/images/teaserbox_bg_repeat.png') repeat-x;
 	margin: 0 5px;
 	padding: 2px 0 5px 0;
 }
 
 #contents .outerteaser.left {
 	float: left;
-	background: url('/images/teaserbox_bg_left.png') no-repeat top left;
+	background: url('http://cowoco.heroku.com/images/teaserbox_bg_left.png') no-repeat top left;
 	width: 455px;
 }
 
 #contents .outerteaser.right {
-	background: url('/images/teaserbox_bg_right.png') no-repeat top right;
+	background: url('http://cowoco.heroku.com/images/teaserbox_bg_right.png') no-repeat top right;
 	width: 455px;
 }
 
@@ -356,7 +356,7 @@ ul li.active a {
 #maincontent a.more.big {
 	display: block;
 	width: 575px;
-	background: url('/images/arrow_down.png') no-repeat center #671e5d;
+	background: url('http://cowoco.heroku.com/images/arrow_down.png') no-repeat center #671e5d;
 	color: #fff !important;
 	clear: both;
 	padding: 5px 10px;
